@@ -19,5 +19,3 @@ This just shows how to get more privlages in the process threads, you will have 
 ![image](https://github.com/l4tt/byfron-bypass/assets/97377137/4d500717-93df-4cce-a2a3-e3c432570ea0)
 
 
-
-
